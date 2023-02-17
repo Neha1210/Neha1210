@@ -1,7 +1,7 @@
 ![logo](https://github.com/Neha1210/Neha1210/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Neha Waghmare</h1>
 <h3 align="center">A passionate Web developer student from India</h3>
-
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1436528/screenshots/3745375/finish_work_friday_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neha1210&label=Profile%20views&color=0e75b6&style=flat" alt="neha1210" /> </p>
 
