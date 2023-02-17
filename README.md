@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Neha1210/Neha1210/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Neha Waghmare</h1>
 <h3 align="center">A passionate Web developer student from India</h3>
 
